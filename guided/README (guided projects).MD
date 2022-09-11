@@ -6,4 +6,8 @@ A "learn by doing" initiative; taking inspiration from other people's projects t
 - An end-to-end ML project building a prediction system in Python that uses a Logistic Regression Model to detect whether a submarine is passing over a rock or mine
 - Data: sonar_data.csv
 
+#### Project 2: Diabetes Prediction ([Siddhardhan](https://www.youtube.com/c/Siddhardhan))
+- An end-to-end ML project building a prediction system in Python that uses a Support Vector Machine model to predict whether a person has diabetes or not
+- Data: diabetes_data.csv
+
 > Note: (Credits to each author/creator mentioned within the specific project notebook)
