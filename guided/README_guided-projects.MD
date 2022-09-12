@@ -14,7 +14,7 @@ A "learn by doing" initiative; taking inspiration from other people's projects t
 - An end-to-end ML project building a prediction system in Python that uses a XGBoost Regressor model to predict house prices
 - Data: housing_data.csv
 
-#### Project 3: Fake News Prediction ([Siddhardhan](https://www.youtube.com/c/Siddhardhan))
+#### Project 4: Fake News Prediction ([Siddhardhan](https://www.youtube.com/c/Siddhardhan))
 - An end-to-end ML project building a prediction system in Python that uses a Logistic Regression model to detect whether a piece of news is fake or not
 - Data: news_data.csv
 
