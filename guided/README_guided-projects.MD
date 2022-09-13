@@ -18,4 +18,8 @@ A "learn by doing" initiative; taking inspiration from other people's projects t
 - An end-to-end ML project building a prediction system in Python that uses a Logistic Regression model to detect whether a piece of news is fake or not
 - Data: news_data.csv
 
+#### Project 5: Loan Status Prediction ([Siddhardhan](https://www.youtube.com/c/Siddhardhan))
+- An end-to-end ML project building a prediction system in Python that uses a Support Vector Machine model to check loan eligibility of a person based on his/her personal information (gender, age, income, employment, location, etc)
+- Data: loan_data.csv
+
 > Note: (Credits to each author/creator mentioned within the specific project notebook)
