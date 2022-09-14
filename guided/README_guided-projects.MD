@@ -22,4 +22,8 @@ A "learn by doing" initiative; taking inspiration from other people's projects t
 - An end-to-end ML project building a prediction system in Python that uses a Support Vector Machine model to check loan eligibility of a person based on his/her personal information (gender, age, income, employment, location, etc)
 - Data: loan_data.csv
 
+#### Project 6: Wine Quality Prediction ([Siddhardhan](https://www.youtube.com/c/Siddhardhan))
+- An end-to-end ML project building a prediction system in Python that uses a Random Forest Classifier model to predict the quality of wine based upon its physiochemical content such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol; and properties such as density and pH.
+- Data: wine_quality_data.csv
+
 > Note: (Credits to each author/creator mentioned within the specific project notebook)
